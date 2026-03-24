@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhirrrr48" alt="sudhirrrr48" /></a> </p>
 
-- 🔭 I’m currently working on [Neon Gaming Hub](neongaminghub.netlify.app)
-
 - 🌱 I’m currently learning **BSc.IT [2nd year] from Navi Mumbai**
 
 - 📫 How to reach me **sudhirmaurya2726@gmail.com**
