@@ -41,6 +41,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 
 #### Backend & Databases
+![Python](https://skillicons.dev/icons?i=python)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Java](https://skillicons.dev/icons?i=java)
@@ -51,7 +52,6 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-![Python](https://skillicons.dev/icons?i=python)
 ![Figma](https://skillicons.dev/icons?i=figma)
 
 ---
@@ -60,11 +60,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudhirrrr48&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Sudhirrrr48&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="46%" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhirrrr48&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhirrrr48&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css&langs_count=8" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sudhirrrr48&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css&langs_count=8" alt="Top Languages" width="49%" />
 
 </div>
 
